@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 76" role="img" aria-label="Al-Shami Flowers">
+  <g id="half">
+    <path fill="#3f6b22" d="M60 70C36 71 9 58 1 41c19 1 44 11 59 29z"/>
+    <path fill="#8bb53a" d="M60 70C40 63 19 46 14 28c18 4 38 19 46 42z"/>
+    <path fill="#f0b323" d="M60 70C45 56 31 36 31 16c15 7 26 28 29 54z"/>
+    <path fill="#e9702a" d="M60 70C51 52 43 30 46 9c10 11 15 35 14 61z"/>
+  </g>
+  <use href="#half" transform="matrix(-1 0 0 1 120 0)"/>
+  <path fill="#c9301f" d="M60 70C51 50 51 24 60 2c9 22 9 48 0 68z"/>
+  <path fill="#e2552a" opacity=".55" d="M60 70C56 52 56 30 60 12c4 18 4 40 0 58z"/>
+</svg>
