@@ -34,7 +34,7 @@ export const legal = {
         },
         {
           title: 'Hosting and conversation records',
-          body: 'This version is supplied as website source in a GitHub repository. A production hosting provider and access-log retention period have not been specified. The shop has not supplied its retention period for enquiries or customer conversations. Ask the shop for these details before sharing personal information.',
+          body: 'The public website is hosted on GitHub Pages. GitHub logs visitors’ IP addresses for security purposes and handles hosting records under its privacy statement; no specific hosting-log retention period is promised here. The shop has not supplied its retention period for enquiries or customer conversations. Ask the shop for these details before sharing personal information.',
         },
         {
           title: 'Your choices and rights',
@@ -95,7 +95,7 @@ export const legal = {
         },
         {
           title: 'الاستضافة وسجلات المحادثات',
-          body: 'تُقدَّم هذه النسخة بصفتها ملفات موقع في مستودع GitHub. لم يُحدَّد مزوّد استضافة للنشر العام أو مدة للاحتفاظ بسجلات الوصول. ولم يزوّد المتجر هذه النسخة بمدة للاحتفاظ بالاستفسارات أو محادثات العملاء. يرجى طلب هذه التفاصيل من المتجر قبل مشاركة المعلومات الشخصية.',
+          body: 'يُستضاف الموقع العام على GitHub Pages. يسجّل GitHub عناوين الإنترنت للزوّار لأغراض أمنية، ويتعامل مع سجلات الاستضافة وفق بيان الخصوصية الخاص به؛ ولا تتضمن هذه السياسة وعداً بمدة محددة للاحتفاظ بتلك السجلات. لم يزوّد المتجر هذه النسخة بمدة للاحتفاظ بالاستفسارات أو محادثات العملاء. يرجى طلب هذه التفاصيل من المتجر قبل مشاركة المعلومات الشخصية.',
         },
         {
           title: 'خياراتك وحقوقك',

@@ -2,6 +2,12 @@
 
 A new Arabic-first, bilingual floral website, designed and implemented independently of the previous site.
 
+## Website
+
+https://yallarideapp.github.io/alshamiflowers/
+
+GitHub Pages publishes the compiled `docs/` folder from the `v2` branch. Regenerate it after source changes with `npm run build:pages`, then commit the updated source and `docs/` together. The previous website remains in `main`.
+
 ## Open on your Mac
 
 Double-click `START-V2.command`. It serves the included production build at http://127.0.0.1:5174 and opens it in your browser. Node.js 22.12+ is required. Close the Terminal window or press Control-C to stop it.
