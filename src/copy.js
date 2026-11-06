@@ -1,0 +1,40 @@
+export const copy = {
+  ar: {
+    title: 'أزهار الشامي — شريك لحظاتكم السعيدة', tagline: 'شريك لحظاتكم السعيدة', location: 'إربد، الأردن',
+    shop: 'التصاميم', occasions: 'المناسبات', story: 'حكايتنا', contact: 'تواصلوا معنا', menu: 'القائمة', close: 'إغلاق', search: 'البحث عن تصميم', bag: 'اختياراتكم', skip: 'انتقل إلى المحتوى',
+    eyebrow: 'زهور تُهدى. مشاعر تبقى.', heroA: 'بعض المشاعر،', heroB: 'يقولها الورد.',
+    heroText: 'لبداية جميلة، لامتنان صادق، ولحبّ لا يحتاج إلى مناسبة. اختاروا وردًا يشبه مشاعركم مع أزهار الشامي.', explore: 'اكتشفوا التصاميم', ourStory: 'وراء كلّ باقة، حكاية',
+    heroNote: 'من القلب،\nإلى أجمل لحظاتكم.', heroCaption: 'فنّ الإهداء، بتفاصيل من الورد', scroll: 'المزيد من الجمال',
+    trustA: 'من إربد إلى أحبّتكم', trustB: 'باقات وصناديق ورد', trustC: 'تفاصيل تختارونها بأنفسكم',
+    collectionEyebrow: 'اختيارات من عالمنا', collectionTitle: 'لكلّ شعور، وردة.', collectionText: 'تفاصيل صغيرة تترك أثرًا كبيرًا. استلهموا هديّتكم القادمة من تنسيقاتنا.', viewAll: 'عرض كلّ التصاميم', viewLess: 'عرض أقل',
+    price: 'السعر والتوفّر عند الاستفسار', quickView: 'اكتشفوا التصميم', add: 'أضيفوا إلى اختياراتكم', added: 'أُضيف إلى اختياراتكم', inspiration: 'صور من أعمال المتجر. الأسماء للتعريف بالتصاميم؛ التوفّر والأسعار يؤكّدهما المتجر.',
+    occasionEyebrow: 'لأنّ اللحظات لا تتكرّر', occasionTitle: 'ما حكاية هديّتكم؟', occasionText: 'هناك ورد لكلّ بداية، ولكلّ «شكرًا»، ولكلّ فرحة تستحقّ الاحتفاء.',
+    birthday: 'فرحة ميلاد', birthdaySub: 'عام جديد، وسبب آخر للفرح.', love: 'للحبّ', loveSub: 'حين تكون الهدية هي الرسالة.', wedding: 'يوم الزفاف', weddingSub: 'تفاصيل تليق بوعد العمر.', justBecause: 'بلا مناسبة', justBecauseSub: 'لأنّ وجودهم سبب كافٍ.',
+    storyEyebrow: 'أزهار الشامي', storyTitle: 'الورد لغة.\nونحن نحبّ تفاصيلها.', storyText: 'من باقة تُهدى لشخص عزيز، إلى ورد يرافق يوم الزفاف؛ نؤمن أنّ أجمل الهدايا هي التي تحمل شيئًا من صاحبها. هنا في إربد، نترك للورد مساحة ليحكي.', storyLink: 'لنتحدّث عن هديّتكم',
+    journalEyebrow: 'لحظات من أزهار الشامي', journalTitle: 'الورد أجمل حين نشاركه.', instagram: 'تابعونا على إنستغرام',
+    ctaEyebrow: 'لنجعلها لحظة جميلة', ctaTitle: 'لمن ستهدون الورد اليوم؟', ctaText: 'اختاروا التصميم الذي أحببتموه، ودعونا نتحدّث عن التفاصيل.', call: 'اتصلوا بنا', dm: 'زوروا صفحتنا',
+    footerText: 'شريك لحظاتكم السعيدة.\nورد وهدايا، من إربد إلى أحبّتكم.', exploreLabel: 'اكتشفوا', findUs: 'لنبقَ على تواصل', copyright: 'أزهار الشامي', artNote: 'صورة الواجهة عمل توضيحي. صور التصاميم من أعمال المتجر.',
+    selectionTitle: 'هديّتكم تبدأ هنا.', selectionText: 'اجمعوا التصاميم التي أحببتموها، ثم تواصلوا مع المتجر لتأكيد التفاصيل. هذه قائمة إلهام وليست طلبًا مؤكّدًا.', emptyTitle: 'مساحة لشيء جميل.', emptyText: 'اختاروا تصميمًا من مجموعتنا ليظهر هنا.', continue: 'اكتشفوا التصاميم', copySelection: 'انسخوا اختياراتكم', copied: 'نُسخت اختياراتكم', copyFail: 'تعذّر النسخ تلقائيًا. يمكن تحديد نصّ الاختيارات ونسخه أدناه.', remove: 'إزالة', clear: 'مسح الاختيارات', increase: 'زيادة العدد', decrease: 'تقليل العدد', selectionSummary: 'أودّ الاستفسار عن التصاميم التالية:', noCheckout: 'السعر والتوفّر والتوصيل والدفع تُؤكّد مع المتجر قبل الطلب.',
+    searchTitle: 'أيّ ورد يشبه شعوركم؟', searchPlaceholder: 'ابحثوا عن ورد، توليب، صندوق…', noResults: 'لم نجد تصميمًا بهذا الاسم.', resetSearch: 'عرض جميع التصاميم', results: 'تصاميم', backHome: 'العودة إلى الصفحة الرئيسية', viewDesign: 'عرض التصميم',
+    originalWork: 'من أعمال أزهار الشامي', menuLabel: 'تصفّح الموقع', productClose: 'إغلاق تفاصيل التصميم'
+  },
+  en: {
+    title: 'Al Shami Flowers — A little beauty. A lasting feeling.', tagline: 'For your happiest moments', location: 'Irbid, Jordan',
+    shop: 'The collection', occasions: 'Occasions', story: 'Our story', contact: 'Get in touch', menu: 'Menu', close: 'Close', search: 'Find your flowers', bag: 'Your selection', skip: 'Skip to content',
+    eyebrow: 'THOUGHTFULLY GIVEN. BEAUTIFULLY FELT.', heroA: 'A little beauty.', heroB: 'A lasting feeling.',
+    heroText: 'For new beginnings, heartfelt thank-yous, and love that needs no occasion. Find flowers that say it your way.', explore: 'Explore the collection', ourStory: 'The story behind the stems',
+    heroNote: 'From the heart,\nwith flowers.', heroCaption: 'A FLORAL LOVE LETTER', scroll: 'A little more beauty',
+    trustA: 'From Irbid, with love', trustB: 'Bouquets & flower boxes', trustC: 'Thoughtful, personal details',
+    collectionEyebrow: 'THE AL SHAMI EDIT', collectionTitle: 'Every feeling, in bloom.', collectionText: 'Small gestures. Beautiful memories. Find a little inspiration for your next thoughtful gift.', viewAll: 'View all designs', viewLess: 'Show less',
+    price: 'Price & availability on enquiry', quickView: 'Discover this design', add: 'Save to your selection', added: 'Added to your selection', inspiration: 'Photos from the shop’s work. Design names are illustrative; the shop confirms prices and availability.',
+    occasionEyebrow: 'FOR THE MOMENTS THAT MATTER', occasionTitle: 'What’s your occasion?', occasionText: 'A new beginning. A heartfelt thank-you. Or simply a lovely ordinary day. There’s a flower for that.',
+    birthday: 'Birthday wishes', birthdaySub: 'Another year. Another reason to smile.', love: 'A little romance', loveSub: 'When the gift says everything.', wedding: 'Your forever', weddingSub: 'Beautiful details for your beautiful day.', justBecause: 'Just because', justBecauseSub: 'Their presence is reason enough.',
+    storyEyebrow: 'THE HEART OF AL SHAMI', storyTitle: 'Flowers are a language.\nWe love every detail.', storyText: 'From a bouquet for someone special to the flowers beside you on your wedding day, the loveliest gifts carry a little of the person giving them. Here in Irbid, we let the flowers do the talking.', storyLink: 'Let’s dream up your flowers',
+    journalEyebrow: 'A LITTLE OF OUR EVERYDAY', journalTitle: 'Beauty, shared.', instagram: 'Find us on Instagram',
+    ctaEyebrow: 'LET’S MAKE SOMEONE’S DAY', ctaTitle: 'Who’s on your mind today?', ctaText: 'Choose the design you love. We’ll talk through the lovely little details.', call: 'Give us a call', dm: 'Visit our Instagram',
+    footerText: 'For your happiest moments.\nFlowers & thoughtful gifts, from Irbid with love.', exploreLabel: 'Explore', findUs: 'Say hello', copyright: 'Al Shami Flowers', artNote: 'Hero image is illustrative artwork. Collection photos show the shop’s work.',
+    selectionTitle: 'Something lovely starts here.', selectionText: 'Gather the designs you love, then contact the shop to confirm the details. This is an inspiration list, not a confirmed order.', emptyTitle: 'Room for something beautiful.', emptyText: 'Save a design from the collection and find it here.', continue: 'Explore the collection', copySelection: 'Copy your selection', copied: 'Your selection is copied', copyFail: 'Automatic copying was unavailable. Select and copy your list below.', remove: 'Remove', clear: 'Clear selection', increase: 'Increase quantity', decrease: 'Decrease quantity', selectionSummary: 'Hello! I’d like to enquire about these designs:', noCheckout: 'Confirm pricing, availability, delivery and payment with the shop before ordering.',
+    searchTitle: 'Find your kind of flowers.', searchPlaceholder: 'Search roses, tulips, boxes…', noResults: 'No designs found for that search.', resetSearch: 'See all designs', results: 'designs', backHome: 'Back to the home page', viewDesign: 'View design',
+    originalWork: 'FROM AL SHAMI’S WORK', menuLabel: 'Browse the website', productClose: 'Close design details'
+  }
+};
